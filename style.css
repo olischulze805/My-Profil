@@ -41,7 +41,7 @@ hr {
 
 /*----TOP----*/
 #top {
-  background: url(/images/desktopprogrammer.jpg) 0 0 / cover fixed no-repeat;
+  background: url(./images/desktopprogrammer.jpg) 0 0 / cover fixed no-repeat;
   background-position-x: center;
 }
 
